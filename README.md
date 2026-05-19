@@ -27,13 +27,6 @@ I work at the intersection of robust backend engineering and cutting-edge AI —
 🌱 Deep diving into autonomous agent architectures and multi-agent collaboration<br>
 📫 Reach me: **gauraditya200@gmail.com**
 
----
-
-### 🏢 Experience
-
-> *(Add your experience here — companies, roles, and what you built!)*
-
----
 
 ### 🛠️ Tech Stack
 
@@ -79,6 +72,17 @@ I work at the intersection of robust backend engineering and cutting-edge AI —
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adityagaur200&theme=radical)
 
 </div>
+
+### 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/adityagaur200/adityagaur200/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+
+</div>
+
+---
+
 
 ### 💬 Get in Touch
 
