@@ -69,28 +69,16 @@ I work at the intersection of robust backend engineering and cutting-edge AI —
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityagaur200&theme=radical)
 
 </div>
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_GITHUB_USERNAME&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_GITHUB_USERNAME&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adityagaur200&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adityagaur200&theme=radical)
 
 </div>
-
----
-
-### 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-
-</div>
-
----
 
 ### 💬 Get in Touch
 
@@ -106,6 +94,6 @@ I work at the intersection of robust backend engineering and cutting-edge AI —
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=orange&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=adityagaur200&color=orange&style=for-the-badge" alt="Profile Views" />
 
 </div>
