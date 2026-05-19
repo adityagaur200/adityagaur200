@@ -77,7 +77,7 @@ I work at the intersection of robust backend engineering and cutting-edge AI —
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/adityagaur200/adityagaur200/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+<img src="hhttps://raw.githubusercontent.com/adityagaur200/adityagaur200/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 
 </div>
 
